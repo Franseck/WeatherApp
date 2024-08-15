@@ -1,0 +1,22 @@
+body{
+  background-image: url(bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  margin: 0;
+  padding: 0;
+  color: bisque;
+  font-family: "Chakra Petch", sans-serif;
+}
+
+.container{
+  height: 100vh;
+}
+.form-control{
+  background-color: rgba(72, 124, 163, 0.513) ;
+}
+
+h1{
+position: absolute;
+top: 0;
+}
